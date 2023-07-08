@@ -1,0 +1,73 @@
+[
+    {
+      "user_name": "johndoe",
+      "password": "abc123",
+      "email": "johndoe@example.com",
+      "age": 25,
+      "status": true
+    },
+    {
+      "user_name": "sarahsmith",
+      "password": "password123",
+      "email": "sarahsmith@example.com",
+      "age": 30,
+      "status": true
+    },
+    {
+      "user_name": "mikebrown",
+      "password": "secret456",
+      "email": "mikebrown@example.com",
+      "age": 35,
+      "status": true
+    },
+    {
+      "user_name": "emilyjones",
+      "password": "mypassword789",
+      "email": "emilyjones@example.com",
+      "age": 28,
+      "status": true
+    },
+    {
+      "user_name": "davidthompson",
+      "password": "12345678",
+      "email": "davidthompson@example.com",
+      "age": 32,
+      "status": true
+    },
+    {
+      "user_name": "lisawilliams",
+      "password": "qwerty123",
+      "email": "lisawilliams@example.com",
+      "age": 27,
+      "status": true
+    },
+    {
+      "user_name": "markjackson",
+      "password": "pass1234",
+      "email": "markjackson@example.com",
+      "age": 29,
+      "status": true
+    },
+    {
+      "user_name": "amandamiller",
+      "password": "amanda@123",
+      "email": "amandamiller@example.com",
+      "age": 31,
+      "status": true
+    },
+    {
+      "user_name": "chrisharris",
+      "password": "chris123",
+      "email": "chrisharris@example.com",
+      "age": 26,
+      "status": true
+    },
+    {
+      "user_name": "jessicawilson",
+      "password": "wilson987",
+      "email": "jessicawilson@example.com",
+      "age": 33,
+      "status": true
+    }
+  ]
+  
